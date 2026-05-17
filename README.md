@@ -1,1 +1,3 @@
 # Gripper-Mechanism-for-Rover
+
+Designed a worm-drive robotic gripper for the University Rover Challenge (URC) in SolidWorks, featuring a Hitec HS-5086WP servo driving a custom worm gear and worm wheel transmission to deliver high gripping torque at reduced speed. Implemented a symmetric parallel four-bar linkage mechanism with mirrored gripper links for balanced, simultaneous jaw closure, supported by 5.5 mm ball bearings at all rotating interfaces. Fabricated the structural base, mounting plates, and linkage arms from 6061 aluminium to minimise weight while maintaining rigidity under URC manipulation task loads.
